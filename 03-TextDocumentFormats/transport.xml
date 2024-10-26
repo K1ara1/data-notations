@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<transportMeans>
+    <transport type="car">
+        <monthCost unit="PLN">200</monthCost>
+        <comfortLevel>High</comfortLevel>
+        <averageSpeed unit="km/h">60</averageSpeed>
+        <availability>Depends</availability>
+    </transport>
+    <transport type="train">
+        <monthCost unit="PLN">150</monthCost>
+        <comfortLevel>Average</comfortLevel>
+        <averageSpeed unit="km/h">70</averageSpeed>
+        <availability>Average</availability>
+    </transport>
+    <transport type="bus">
+        <monthCost unit="PLN">80</monthCost>
+        <comfortLevel>Low</comfortLevel>
+        <averageSpeed unit="km/h">40</averageSpeed>
+        <availability>High</availability>
+    </transport>
+</transportMeans>

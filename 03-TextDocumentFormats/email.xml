@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<emailFile>
+    <basicData>
+        <sender>Sender Name</sender>
+        <recipient>Recipient Name</recipient>
+    </basicData>
+    <emailBody>
+        <topic>Topic</topic>
+        <message>Message</message>
+    </emailBody>
+</emailFile>

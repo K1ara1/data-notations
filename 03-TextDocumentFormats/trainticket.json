@@ -1,0 +1,11 @@
+{
+    "day": 12,
+    "month": "february",
+    "year": 2024,
+    "isWithDiscount": true,
+    "discountType": [
+        "students",
+        "seniors",
+        "children"
+    ]
+}
