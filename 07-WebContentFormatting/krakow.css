@@ -1,0 +1,31 @@
+h2{
+    text-align: center;
+    background-color: rgb(124, 170, 210);
+    
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+th {
+    background-color: #3e4f62;
+    color: white;
+    padding: 12px;
+}
+td {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+th:hover {
+    color:aquamarine
+}
+td:hover {
+    color:#3e4f62
+}
+th:nth-child(1) {
+    width: 25%
+}
+th::nth-child(4) {
+    width: 40%
+}
